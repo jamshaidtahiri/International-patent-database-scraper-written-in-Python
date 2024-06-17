@@ -1,5 +1,4 @@
 International patent database scraper written in Python
-Posted 2 weeks ago
 
 #BELOW WAS FREELANCE TASK
 #SAMPLE CODE IS ATTACHED IN THIS REPO
