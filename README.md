@@ -1,17 +1,16 @@
 International patent database scraper written in Python
 Posted 2 weeks ago
-Only freelancers located in the U.S. may apply.
-Hi!
 
-We're looking for a robust crawler that scrapes a specific list of international patent databases written in Python 3.
+#BELOW WAS FREELANCE TASK
+#SAMPLE CODE IS ATTACHED IN THIS REPO
 
-List of patent databases we need scraped:
-1. USPTO: (link removed)/
-2. Europe: https://www.epo.org/en/searching-for-patents/technical/espacenet
-3. Japan: https://www.j-platpat.inpit.go.jp/
-4. PCT: https://www.wipo.int/patentscope/en/
-5. China: https://english.cnipa.gov.cn/
-6. Korea: https://www.kipo.go.kr/en/MainApp?c=1000
+List of patent databases need to be scraped:
+
+1. Europe: https://www.epo.org/en/searching-for-patents/technical/espacenet
+2. Japan: https://www.j-platpat.inpit.go.jp/
+3. PCT: https://www.wipo.int/patentscope/en/
+4. China: https://english.cnipa.gov.cn/
+5. Korea: https://www.kipo.go.kr/en/MainApp?c=1000
 
 We're looking to break this project up into milestones, each of which correspond to one of the data sources listed above.
 
